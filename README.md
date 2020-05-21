@@ -3,6 +3,6 @@
 
 
 ## Result GIF.
-<img src="img/Mission_Complete.gif" width="540" height="1080">
+<img src="GameGraphics-Homework2/img/Mission_Complete.gif" width="540" height="1080">
 
 고양이주전자 터져욧 ㅜㅜㅜ.
