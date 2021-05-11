@@ -1,6 +1,6 @@
 # GameGraphics_Homework2
 숙제를 완료하였습니다.
--GameGraphics_Homework2-1 에 나와있는 제시된 문제풀이를 위해
+-GameGraphics_Homework2-1 에 나와있는 제시된 문제풀이를 위해\
 OpenGLES_HW2.zip에 있는 Android Studio 코드에서 src/main에 있는 코드들을 변경했다.
 
 
