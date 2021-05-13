@@ -1,5 +1,5 @@
 # GameGraphics_Homework2
-* 숙제를 완료하였습니다. \
+* 숙제를 완료하였습니다.
 
 ## Problems about...
 * GG_HW3_guide.pdf have what problems are.
