@@ -2,7 +2,7 @@
 * 숙제를 완료하였습니다.
 
 ## Problems about...
-* GG_HW3_guide.pdf have what problems are.
+* GG_HW2_guide.pdf have what problems are.
 
 ## Result GIF.
 <img src="GameGraphics-Homework2/img/Mission_Complete.gif" width="175" height="300">
