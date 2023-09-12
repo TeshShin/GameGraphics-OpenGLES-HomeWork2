@@ -6,23 +6,23 @@
 * Or see problem [Github page](https://github.com/siamiz88/-GameGraphics-_Homework2)
 # Result
 
-## Problem 1
+## Problem 1 - 메쉬에 택스쳐 입히기
 
 <div align="center">
   <img src="GameGraphics-Homework2/img/problem1.png" width="175" height="300">
 </div>
 
-## Problem 2
+## Problem 2 - 라이팅
 <div align="center">
   <img src="GameGraphics-Homework2/img/problem2.png" width="175" height="300">
 </div>
 
-## Problem 3
+## Problem 3 - 메쉬에 효과 입히기 1
 <div align="center">
   <img src="GameGraphics-Homework2/img/problem3.gif" width="175" height="300">
 </div>
 
-## Problem 4
+## Problem 4 - 메쉬에 효과 입히기 2
 <div align="center">
   <img src="GameGraphics-Homework2/img/problem4.gif" width="175" height="300">
 </div>
