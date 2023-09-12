@@ -6,7 +6,7 @@
 * Or see problem [Github page](https://github.com/siamiz88/-GameGraphics-_Homework2)
 # Result
 
-## Problem 1 - 메쉬에 택스쳐 입히기
+## Problem 1 - 메쉬에 텍스쳐 입히기
 
 <div align="center">
   <img src="GameGraphics-Homework2/img/problem1.png" width="175" height="300">
