@@ -1,5 +1,4 @@
 # GameGraphics-OpenGLES-HomeWork2
-* 숙제를 완료하였습니다.
 
 ## Problems about...
 * [GG_HW2_guide.pdf](https://github.com/TeshShin/GameGraphics-OpenGLES-HomeWork2/blob/master/GG_HW2_guide.pdf) have what problems are.
