@@ -4,7 +4,7 @@
 ## Problems about...
 * [GG_HW2_guide.pdf](https://github.com/TeshShin/GameGraphics-OpenGLES-HomeWork2/blob/master/GG_HW2_guide.pdf) have what problems are.
 * Or See problem [Github page](https://github.com/siamiz88/-GameGraphics-_Homework2)
-## Result GIF.
+## Result
 <div align="center">
   <img src="GameGraphics-Homework2/img/Mission_Complete.gif" width="175" height="300">
 </div>
