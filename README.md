@@ -3,7 +3,7 @@
 
 ## Problems about...
 * [GG_HW2_guide.pdf](https://github.com/TeshShin/GameGraphics-OpenGLES-HomeWork2/blob/master/GG_HW2_guide.pdf) have what problems are.
-* Or See problem [Github page](https://github.com/siamiz88/-GameGraphics-_Homework2)
+* Or see problem [Github page](https://github.com/siamiz88/-GameGraphics-_Homework2)
 # Result
 
 ## Problem 1
