@@ -4,25 +4,25 @@
 ## Problems about...
 * [GG_HW2_guide.pdf](https://github.com/TeshShin/GameGraphics-OpenGLES-HomeWork2/blob/master/GG_HW2_guide.pdf) have what problems are.
 * Or See problem [Github page](https://github.com/siamiz88/-GameGraphics-_Homework2)
-## Result
+# Result
 
-### Problem 1
+## Problem 1
 
 <div align="center">
   <img src="GameGraphics-Homework2/img/problem1.png" width="175" height="300">
 </div>
 
-### Problem 2
+## Problem 2
 <div align="center">
   <img src="GameGraphics-Homework2/img/problem2.png" width="175" height="300">
 </div>
 
-### Problem 3
+## Problem 3
 <div align="center">
   <img src="GameGraphics-Homework2/img/problem3.gif" width="175" height="300">
 </div>
 
-### Problem 4
+## Problem 4
 <div align="center">
   <img src="GameGraphics-Homework2/img/problem4.gif" width="175" height="300">
 </div>
